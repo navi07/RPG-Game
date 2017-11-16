@@ -1,0 +1,68 @@
+ ->Postac: 
+Nazwa: Character
+Atrybut: Silny
+HP: 100
+Obrona: 10
+Atak: 10
+
+ ->Potwor: 
+Nazwa: Character
+Atrybut: Slaby
+HP: 100
+Obrona: 10
+Atak: 10
+
+ ->Item: 
+Nazwa: Item
+Waga: 1
+ ->Postac: 
+Nazwa: Character
+Atrybut: Silny
+HP: 100
+Obrona: 10
+Atak: 10
+
+ ->Potwor: 
+Nazwa: Character
+Atrybut: Slaby
+HP: 100
+Obrona: 10
+Atak: 10
+
+ ->Item: 
+Nazwa: Item
+Waga: 1
+ ->Postac: 
+Nazwa: Character
+Atrybut: Silny
+HP: 50
+Obrona: 10
+Atak: 10
+
+ ->Potwor: 
+Nazwa: Character
+Atrybut: Slaby
+HP: 0
+Obrona: 10
+Atak: 10
+
+ ->Item: 
+Nazwa: Item
+Waga: 1
+ ->Postac: 
+Nazwa: Character
+Atrybut: Silny
+HP: 100
+Obrona: 10
+Atak: 10
+
+ ->Potwor: 
+Nazwa: Character
+Atrybut: Slaby
+HP: 0
+Obrona: 10
+Atak: 10
+
+ ->Item: 
+Nazwa: Item
+Waga: 1
